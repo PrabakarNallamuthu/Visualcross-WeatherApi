@@ -7,7 +7,7 @@
 #define WIFI_SSID "Wokwi-GUEST" // Replace with your Wi-Fi SSID
 #define WIFI_PASSWORD "" // Replace with your Wi-Fi password
 
-const char* apiKey = "3KAJKHWT3UEMRQWF2ABKVVVZE"; // Your Visual Crossing Weather API key
+const char* apiKey = "YOUR_API_KEY"; // Your Visual Crossing Weather API key
 const char* location = "New York, NY"; // Your location for weather data
 const char* serverName = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/";
 
